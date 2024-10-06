@@ -1,0 +1,6 @@
+create user account
+    mongoose
+    model
+    usercreate -> password -> hash
+
+    Login -> token -> decrypt -> email
